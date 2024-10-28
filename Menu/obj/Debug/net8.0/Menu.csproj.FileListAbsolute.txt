@@ -1,0 +1,15 @@
+/workspaces/Restaurant/Menu/bin/Debug/net8.0/Menu
+/workspaces/Restaurant/Menu/bin/Debug/net8.0/Menu.deps.json
+/workspaces/Restaurant/Menu/bin/Debug/net8.0/Menu.runtimeconfig.json
+/workspaces/Restaurant/Menu/bin/Debug/net8.0/Menu.dll
+/workspaces/Restaurant/Menu/bin/Debug/net8.0/Menu.pdb
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.AssemblyInfoInputs.cache
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.AssemblyInfo.cs
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.csproj.CoreCompileInputs.cache
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.sourcelink.json
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.dll
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/refint/Menu.dll
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.pdb
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/Menu.genruntimeconfig.cache
+/workspaces/Restaurant/Menu/obj/Debug/net8.0/ref/Menu.dll
